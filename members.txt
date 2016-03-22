@@ -4,3 +4,4 @@
 #
 # Full Name, uname@udel.edu
 Riley Shaw, rlyshw@udel.edu
+Collin Clark, crclark@udel.edu
