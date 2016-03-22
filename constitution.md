@@ -13,23 +13,23 @@ The Objective of the AI Club shall be to provide its members the greatest intere
 * B. Membership status is determined by an individual’s contributions to a code repository that is endorsed by the AI Club. Any individual who meets the eligibility requirements outlined in Section III Subsection A that contributes to a code repository which has been officially endorsed by the AI Club will be considered a member of the AI Club.
 
 ### IV. Duties and Responsibilities of Members
-* Members of the AI Club, as defined in Section Three, hold the power to elect the members of the executive board as described in Section IX of the AI Club.
-* Members are allowed to compete in any and all AI-related competitions under the name The AI Club at the University of Delaware.
-* Members will have read access to any code endorsed by the AI Club.
+* A. Members of the AI Club, as defined in Section Three, hold the power to elect the members of the executive board as described in Section IX of the AI Club.
+* B. Members are allowed to compete in any and all AI-related competitions under the name The AI Club at the University of Delaware.
+* C. Members will have read access to any code endorsed by the AI Club.
 
 ### V. Associated Members
-* Individuals that contribute to code repositories who do not meet the eligibility requirements outlined in Section Three, Subsection A, are considered associated members of the AI Club.
-* Associated Members are allowed the benefits outlined in Section IV, Subsection B and Section IV, Subsection C.
-* Associated Members may not vote in elections for executive board members.
-* Associated Members may not run for executive board seats.
+* A. Individuals that contribute to code repositories who do not meet the eligibility requirements outlined in Section Three, Subsection A, are considered associated members of the AI Club.
+* B. Associated Members are allowed the benefits outlined in Section IV, Subsection B and Section IV, Subsection C.
+* C. Associated Members may not vote in elections for executive board members.
+* D. Associated Members may not run for executive board seats.
 
 ### VI. Maintaining Membership
-* Any Member that does not contribute to any AI Club endorsed repository for one whole year will be considered inactive.
-* Inactive members may not run for executive board positions.
-* Inactive members may not vote in executive board elections.
-* Inactive members may not compete as The AI Club at the University of Delaware
-* Inactive members may have read access privileges revoked at the sole discretion of the executive board members.
-* Members must attend at least 50% of the meetings every semester. If they miss more than 50% of the meetings they will be considered inactive.
+* A. Any Member that does not contribute to any AI Club endorsed repository for one whole year will be considered inactive.
+* B. Inactive members may not run for executive board positions.
+* C. Inactive members may not vote in executive board elections.
+* D. Inactive members may not compete as The AI Club at the University of Delaware
+* E. Inactive members may have read access privileges revoked at the sole discretion of the executive board members.
+* F. Members must attend at least 50% of the meetings every semester. If they miss more than 50% of the meetings they will be considered inactive.
 
 ### VII. Non-Discrimination Clause
 * The organization agrees to adhere to all policies and procedures of the University and all local, state, and federal laws. Members will become acquainted with policies and procedures found on the University Student Centers website (http://www.udel.edu/usc/policy.html) and the Student Guide to Policies (http://www.udel.edu/stuguide/). This organization is viable, functioning, composed of at least six full time undergraduate students, and adheres to the University of Delaware's Non-Discrimination/Title IX policies (http://www.udel.edu/aboutus/legalnotices.html).
@@ -123,3 +123,4 @@ Advisor: Andrew Novocin
 University Student Centers Staff:
 
 Date: 3/22/2016
+
