@@ -1,5 +1,5 @@
 # This is a list of members, please
-# keep it in the same form and use 
+# keep it in the same form and use
 # your @udel.edu email address
 #
 # Full Name, uname@udel.edu
@@ -7,3 +7,4 @@ Riley Shaw, rlyshw@udel.edu
 Collin Clark, crclark@udel.edu
 Samantha Hoffman, shoff@udel.edu
 Zach Irons, zirons@udel.edu
+Aamir Majeed, aamirmaj@udel.edu
